@@ -1,2 +1,2 @@
 # ResumeBuilder
-Create HTML resumes
+Create HTML resumes & convert to .PDF
